@@ -1,2 +1,3 @@
-opencv-python
-fastapi
+fastapi==0.68.1
+opencv-python-headless==4.5.4.58
+uvicorn==0.15.0
